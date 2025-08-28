@@ -1,3 +1,3 @@
 library;
 
-export 'src/custom_container.dart';
+export 'custom_container.dart';
